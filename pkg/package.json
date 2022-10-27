@@ -1,0 +1,16 @@
+{
+  "name": "wasm-sqrt",
+  "collaborators": [
+    "paw"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_sqrt_bg.wasm",
+    "wasm_sqrt.js",
+    "wasm_sqrt_bg.js",
+    "wasm_sqrt.d.ts"
+  ],
+  "module": "wasm_sqrt.js",
+  "types": "wasm_sqrt.d.ts",
+  "sideEffects": false
+}
